@@ -5,5 +5,5 @@ Sparse feature matching is fundamental to robot visual localization and mapping.
 
 ## TODO List
 
-- [ ] release the training code
+- [ ] release the  code
 - [ ] release model weights
